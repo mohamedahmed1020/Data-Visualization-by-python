@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # 1) استيراد البيانات
 file_path = "hotel_bookings.csv"   # ضع الملف في نفس مسار الكود أو غيّر المسار
-df = pd.read_csv(file_path like ='D:\Courses\DA NTI\Hotal Data\hotel_bookings.csv')
+df = pd.read_csv(file_path like ='D:\Courses\DA NTI\Hotal Data Visualization\hotel_bookings.csv')
 
 # إعداد شكل الرسومات
 plt.style.use("seaborn-v0_8")
